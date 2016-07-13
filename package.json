@@ -1,6 +1,6 @@
 {
   "name": "download-github-package",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Download a npm package from a github repository",
   "main": "dist/index.js",
   "scripts": {
